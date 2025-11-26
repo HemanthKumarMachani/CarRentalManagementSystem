@@ -9,7 +9,7 @@ CREATE  TABLE car(registrationNumber VARCHAR(50) PRIMARY KEY, brand VARCHAR(50),
 /* client table */
 CREATE TABLE client(CIN VARCHAR(50) PRIMARY KEY, firstName VARCHAR(50), lastName VARCHAR(50));
 /* ranting table */
-CREATE TABLE ranting(rantID INT PRIMARY KEY AUTO_INCREMENT, registrationNumber VARCHAR(50), CIN VARCHAR(50), isReturned BIT, rentalDate DATE, returnDate DATE);
+CREATE TABLE renting(rantID INT PRIMARY KEY AUTO_INCREMENT, registrationNumber VARCHAR(50), CIN VARCHAR(50), isReturned BIT, rentalDate DATE, returnDate DATE);
 
 /* CAR DATA */
 

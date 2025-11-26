@@ -56,6 +56,6 @@ public class HomePanel extends JPanel {
         // Footer Text
         g.setColor(footerColor);
         g.setFont(footerFont);
-        g.drawString("© 2024 Car Rental Office. All rights reserved.", getWidth() / 2 - 100, getHeight() - 20);
+        g.drawString("2024 Car Rental Office Application.", getWidth() / 2 - 100, getHeight() - 20);
     }
 }

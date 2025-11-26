@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65c08de4-883f-4492-ac26-d4bccec582b2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_45_bin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarRentalOfficeApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CarRentalOfficeApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/DB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/DB.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/AddRantingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/AddRatingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/RentingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/RentingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/CarDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/CarDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/ClientDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/ClientDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/DAOFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/DAOFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/RantalsTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/RantalsTableModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Ranting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Rating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/RantingDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/RatingDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/SingletonConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/SingletonConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View/HomePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/HomePanel.java" afterDir="false" />
-    </list>
+    <list default="true" id="65c08de4-883f-4492-ac26-d4bccec582b2" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +51,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -198,30 +177,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MainClass.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -274,8 +253,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.26775.15" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.26775.15" />
       </set>
     </attachedChunks>
   </component>
@@ -291,7 +270,9 @@
       <workItem from="1733101629485" duration="4684000" />
       <workItem from="1733421328940" duration="613000" />
       <workItem from="1733510586735" duration="5283000" />
-      <workItem from="1733677877271" duration="648000" />
+      <workItem from="1733677877271" duration="5835000" />
+      <workItem from="1734460325363" duration="711000" />
+      <workItem from="1764170277391" duration="332000" />
     </task>
     <servers />
   </component>
